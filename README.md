@@ -1,5 +1,5 @@
 ﻿# udemig-academy
 - Html css bootstrap kullanılmıştır
 
-  #Gif
+  # Gif
   ![](academy.gif)
